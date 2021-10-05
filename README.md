@@ -1,0 +1,1 @@
+In this project for "The Odin Project", I will be making a basic recipe website. I will be testing the basics of my knowledge in HTML and also using git and github. 
